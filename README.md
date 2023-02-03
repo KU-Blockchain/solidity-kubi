@@ -13,7 +13,7 @@ Morgan Bergen - Former Director of Education (2022)
 
 ### Description
 
-A multi part lecture series on an introduction to Blockchain, Ethereum, and Smart Contracts. This repo will take you through the basics of deploying an application on an ethereum blockchain network, understand the languages terminology and jargon, advantages, and problems it’s trying to solve. This lecture series will place an emphasis to explain the important semantic concepts of solidity and it's architecture in detail.
+An introduction to Blockchain, Ethereum, and Smart Contracts. This repo will take you through the basics of deploying an application on an ethereum blockchain network, understand the languages terminology and jargon, advantages, and problems it’s trying to solve. This lecture series will place an emphasis to explain the important semantic concepts of solidity and it's architecture in detail.
 
 Details regarding solidity concepts like externally owned accounts, contract accounts, its currency in terms of gas and Ether will be discussed. Ethereum is heavily based on cryptography and you’ll also learn about hash, encryption, and usage of keys for creating transactions and accounts. How are transactions and accounts created, how gas is paid for each transaction, difference between message calls and transactions, and storage of code and state management will be explained in detailed.  All information within this repo has been allocated from the follow two sources.
 
